@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>data/res/available.jpg</file>
+        <file>data/res/background.jpg</file>
+        <file>data/res/check.png</file>
+        <file>data/res/checkbox.svg</file>
+        <file>data/res/checkbox-empty.svg</file>
+        <file>data/res/close.png</file>
+        <file>data/res/ftcheckedbox.svg</file>
+        <file>data/res/ftemptybox.svg</file>
+        <file>data/res/unavailable.jpg</file>
+        <file>data/res/icon.png</file>
+        <file>data/res/background1.jpg</file>
+        <file>data/res/1470189.jpg</file>
+        <file>data/res/nurses.png</file>
+        <file>data/res/wardrobe.png</file>
+        <file>data/res/archive.png</file>
+        <file>data/res/open-box.png</file>
+        <file>data/res/simons_cat_cartoon_texture_cat_94395_1280x800.jpg</file>
+        <file>data/res/kitten_wild_grass_323005_1280x720.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../.gitignore</file>
+    </qresource>
+</RCC>
